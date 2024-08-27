@@ -1,0 +1,43 @@
+# Enunciado do Projeto: Conversor de Reais para Dólares
+
+## Objetivo
+
+Desenvolver um programa em Python que converte um valor em reais para dólares usando uma taxa de câmbio fixa. O programa deve ler um valor em reais fornecido pelo usuário, realizar a conversão para dólares e exibir o valor convertido.
+
+## Especificações
+
+1. **Leitura do Valor em Reais**
+   - O programa deve solicitar ao usuário que insira um valor em reais.
+
+2. **Conversão para Dólares**
+   - O programa deve converter o valor em reais para dólares usando uma taxa de câmbio fixa de 5 reais por dólar.
+
+3. **Exibição do Valor Convertido**
+   - O programa deve exibir o valor convertido em dólares, formatado para duas casas decimais.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e organizado, com tratamento básico para garantir que a entrada seja um número válido.
+- O valor convertido deve ser exibido corretamente com duas casas decimais.
+
+## Observações
+
+- Caso a taxa de câmbio mude, atualize a variável `taxa_cambio` no código.
+
+111# Conversor de Reais para Dólares
+
+Este é um programa simples em Python que converte um valor em reais para dólares com base em uma taxa de câmbio fixa. O programa lê um valor em reais fornecido pelo usuário, realiza a conversão para dólares e exibe o valor convertido.
+
+## Funcionalidades
+
+- **Leitura do Valor em Reais:** O programa solicita ao usuário que insira um valor em reais.
+- **Conversão para Dólares:** O programa converte o valor em reais para dólares usando uma taxa de câmbio fixa.
+- **Exibição do Valor Convertido:** O programa exibe o valor convertido em dólares, formatado para duas casas decimais.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/conversor-reais-dolares.git
